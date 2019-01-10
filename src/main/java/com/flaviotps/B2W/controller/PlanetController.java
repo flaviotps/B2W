@@ -20,7 +20,7 @@ public class PlanetController {
     PlanetService planetService;
 
     @ApiOperation(value = Constants.LIST_ALL)
-    @GetMapping("/planets")
+    @GetMapping(value = {"/", "/planets"})
     @ResponseStatus(HttpStatus.OK)
     public List<PlanetModel> getAllPlanets() {
         return planetService.findAll();
