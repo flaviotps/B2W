@@ -2,6 +2,8 @@
 
 Projeto referente a segunda etapa do processo seletivo da [B2W](https://www.devmedia.com.br/) .
 
+**OBS: OS DYNOS DA HOSPEDAGEM DO HEROKU PODEM DEMORAR UM POUCO PARAR RESPONDER (ACORDAR)**
+
 **OBJETIVO:**
 Criar uma API com as seguintes funcionalidades:
 - Adicionar um planeta (com nome, clima e terreno)
