@@ -1,6 +1,6 @@
 ![B2W Logo](https://ri.b2w.digital/img/2013/logo.png)
 
-Projeto referente a segunda etapa do processo seletivo da [B2W](https://www.devmedia.com.br/) .
+Projeto referente a segunda etapa do processo seletivo da [B2W](https://ri.b2w.digital/) .
 
 **OBS: OS DYNOS DA HOSPEDAGEM DO HEROKU PODEM DEMORAR UM POUCO PARAR RESPONDER (ACORDAR)**
 
